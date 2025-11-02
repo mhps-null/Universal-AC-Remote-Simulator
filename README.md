@@ -95,12 +95,14 @@ When you run the program, it will prompt you to enter the current room humidity:
 ```
 
 ## File Structure
+```
 repo/
 │
 ├─ remote-AC.py             # Main AC remote program
 ├─ suhu_terakhir.txt    # Stores last set temperature
 ├─ README.md           # Project documentation
 └─ LICENSE 
+```
 
 ## Screenshots
-![Sample Run](screenshot.png)
+![Sample Run](image.png)
