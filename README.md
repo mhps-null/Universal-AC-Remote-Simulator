@@ -1,4 +1,7 @@
-# Universal Air Conditioner Remote 🌬️❄️🔥
+# Simulasi Remote AC dengan pendekatan Computational Thinking
+
+Diperuntukkan untuk tugas besar projek II mata kuliah WI1102 Computational Thinking Semester 1
+
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)  
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
@@ -13,11 +16,8 @@ This project allows testing and visualizing how an AC remote interacts with diff
 - [Features](#-features)  
 - [Prerequisites](#-prerequisites)  
 - [Installation](#-installation)  
-- [Usage](#-usage)  
 - [File Structure](#-file-structure)  
 - [Screenshots](#-screenshots)  
-- [Links](#-links)  
-- [Notes](#-notes)  
 - [License](#-license)  
 
 ---
@@ -75,3 +75,32 @@ Before running the program, ensure:
     ```bash
    python3 remote-AC.py
     ```
+
+2. Input current temperature (in Celcius)
+```bash
+Masukkan suhu ruang saat ini: [input here]
+```
+```markdown
+Note:
+When you run the program, it will prompt you to enter the current room temperature:
+```
+
+3. Input current humidity (scale 1-100)
+```bash
+Masukkan % kelembaban relatif (Skala: 1-100): [input here]
+```
+```markdown
+Note:
+When you run the program, it will prompt you to enter the current room humidity:
+```
+
+## File Structure
+repo/
+│
+├─ remote-AC.py             # Main AC remote program
+├─ suhu_terakhir.txt    # Stores last set temperature
+├─ README.md           # Project documentation
+└─ LICENSE 
+
+## Screenshots
+![Sample Run](screenshot.png)
