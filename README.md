@@ -77,21 +77,15 @@ Before running the program, ensure:
     ```
 
 2. Input current temperature (in Celcius)
+When you run the program, it will prompt you to enter the current room temperature:
 ```bash
 Masukkan suhu ruang saat ini: [input here]
 ```
-```markdown
-Note:
-When you run the program, it will prompt you to enter the current room temperature:
-```
 
 3. Input current humidity (scale 1-100)
+When you run the program, it will prompt you to enter the current room humidity:
 ```bash
 Masukkan % kelembaban relatif (Skala: 1-100): [input here]
-```
-```markdown
-Note:
-When you run the program, it will prompt you to enter the current room humidity:
 ```
 
 ## File Structure
