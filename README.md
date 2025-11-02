@@ -13,7 +13,6 @@ This project allows testing and visualizing how an AC remote interacts with diff
 
 ## 📌 Table of Contents
 
-- [Appendix](#appendix)  
 - [Features](#features)  
 - [Prerequisites](#prerequisites)  
 - [Installation](#installation)  
@@ -22,11 +21,6 @@ This project allows testing and visualizing how an AC remote interacts with diff
 - [License](LICENSE)  
 
 ---
-
-
-## Appendix
-
-[Google Drive](https://drive.google.com/drive/folders/1o9it1CroDbu1Nt7IIqvIY4aavMnSkKl8)
 
 
 ## Features
