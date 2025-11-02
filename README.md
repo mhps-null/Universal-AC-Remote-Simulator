@@ -100,4 +100,4 @@ repo/
 ```
 
 ## Screenshots
-![Sample Run](image.png)
+![Sample Run](assets/image.png)
