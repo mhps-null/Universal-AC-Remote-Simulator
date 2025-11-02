@@ -22,7 +22,7 @@ This project allows testing and visualizing how an AC remote interacts with diff
 
 ---
 
-## ⚙️ Features
+## Features
 
 - Automatic synchronization of IR codes with different AC models  
 - Adjustable temperature (+/- 1°C)  
@@ -35,7 +35,7 @@ This project allows testing and visualizing how an AC remote interacts with diff
 
 ---
 
-## 🔧 Prerequisites
+## Prerequisites
 
 Before running the program, ensure:
 
@@ -57,9 +57,21 @@ Before running the program, ensure:
 
 ---
 
-## 💻 Installation
+## Installation
 
 1. Clone this repository:
    ```bash
    git clone https://github.com/username/repo.git
    cd repo
+   ```
+
+## Run The Program
+
+1. Clone this repository:
+   ```bash
+   python remote-AC.py
+    ```
+    or
+    ```bash
+   python3 remote-AC.py
+    ```
